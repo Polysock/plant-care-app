@@ -10,6 +10,12 @@ require (
 )
 
 require (
+	github.com/fasthttp/websocket v1.5.3 // indirect
+	github.com/gofiber/websocket/v2 v2.2.1 // indirect
+	github.com/savsgio/gotils v0.0.0-20230208104028-c358bd845dee // indirect
+)
+
+require (
 	github.com/andybalholm/brotli v1.1.0 // indirect
 	github.com/google/uuid v1.6.0 // indirect
 	github.com/jackc/pgpassfile v1.0.0 // indirect
